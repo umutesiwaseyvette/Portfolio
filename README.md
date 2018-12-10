@@ -1,12 +1,12 @@
 # Portfolio
 ## Author
 * UMUTESIWASE Yvette
-### Dcription
+### Decription
 This my portfolio, where i introduce my self and talk about my background, my job experience, skills,My interests and hobbies.
 #### Setup
 * HTML
 * CSS
-* code
+* code.
 ##### License Info
 MIT License
 
