@@ -1,0 +1,24 @@
+body{
+ background-color: beige;
+ 
+}  
+p{
+    font-weight: normal;
+    padding:2px;
+    font-style:italic;
+    color: black;
+    font-size:17px;
+    flex-direction: row-reverse;
+}
+img{
+    width: 350px;  
+}
+a{
+    color: blue;;
+}
+ol{
+    list-style-type: square;
+}
+#container{
+    text-align: center;
+}
