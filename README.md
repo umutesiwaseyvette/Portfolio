@@ -3,10 +3,11 @@
 * UMUTESIWASE Yvette
 ### Decription
 This my portfolio, where i introduce my self and talk about my background, my job experience, skills,My interests and hobbies.
-#### Setup
+#### Technologies Used
 * HTML
 * CSS
 * code.
+* Markdown
 ##### License Info
 MIT License
 

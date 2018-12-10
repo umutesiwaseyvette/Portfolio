@@ -1,5 +1,5 @@
 body{
- background-color: beige;
+ background-color:rgb(232, 245, 220);
  
 }  
 p{
@@ -12,13 +12,18 @@ p{
 }
 img{
     width: 350px;  
+    border-radius:20px;
+    float: none;
 }
 a{
-    color: blue;;
+    color: blue;
+    margin: 5px;
+    padding: 20px;
 }
 ol{
     list-style-type: square;
 }
-#container{
+#container{ 
     text-align: center;
+    flex-direction: center;
 }
