@@ -8,7 +8,7 @@ This my portfolio, where i introduce my self and talk about my background, my jo
 * CSS
 * code.
 * Markdown
-To find it click on this link  https://umutesiwaseyvette.github.io/Portfolio/
+* To find it click on this link  https://umutesiwaseyvette.github.io/Portfolio/
 ##### License Info
 MIT License
 
