@@ -3,6 +3,8 @@
 * UMUTESIWASE Yvette
 ### Decription
 This my portfolio, where i introduce my self and talk about my background, my job experience, skills,My interests and hobbies.
+## setup and Bugs
+This website doesn't have setup or bugs 
 #### Technologies Used
 * HTML
 * CSS
