@@ -12,7 +12,7 @@ This website doesn't have setup or bugs
 * Markdown
 * To find it click on this link:https://umutesiwaseyvette.github.io/Portfolio/
 #### Contact info
-* Telphone:+250788582184
+* Telphone: +250788582184
 * Email: rwjpyy@gmail.com
 ##### License Info
 MIT License
